@@ -1,7 +1,7 @@
 # Library Managment System
 
 
-This is a library management software developed using Java  and Swing library. The entire  video with demonstation of each and every part (in realtime) is available in my YouTube Channel [Leo Bogod Youtube Channel](https://www.youtube.com/watch?v=3ZoGtDq64Ys).
+This is a library management software developed using Java and Swing library.
 
 
 
