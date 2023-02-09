@@ -7,7 +7,7 @@ This is a library management software developed using Java and Swing library.
 
 # Features
 
-![alt text](books.png)
+
 - Add Books
 
 - Issue Books
@@ -36,4 +36,3 @@ This is a library management software developed using Java and Swing library.
 
 
 
-![alt text](img.png)
